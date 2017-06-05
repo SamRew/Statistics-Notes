@@ -13,4 +13,11 @@
     If Y and Z can't happen together then we use a simple addition formula P(YorZ)=P(Y)+P(Z)
     These two events are independent of each other
     P(RH+ or A blood)=P(RH+) + P(A) - P(RH+ and A)
+  An event Z may change the likelihood of event Y occuring
+    We use P(Y|Z) for the conditional probability that Y occurs given that we know Z has occurred
+    P(Y|Z)=P(Y and Z)/P(Z)
+  Bayes' Rule 
+   P(S|R)=(P(R and S)/P(R)=((PR|S)P(S))/P(R)
+  Sensitivity=Probability that test is correctly positive
+  Specificity=Probability that test is correctly negative
   
